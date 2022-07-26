@@ -1,8 +1,7 @@
 # Pretvarjanje heic v jpg
 ## Namestitev nodejs
-- https://nodejs.org/en/download/
-- programe v nodejs poganjaš iz terminala: https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=hr-hr&gl=HR (ali power shell, ali cmd v windowsih)
-- program se zažene z ukazom ``node imePrograma.js``
+Programe v nodejs poganjaš iz terminala: https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=hr-hr&gl=HR (ali power shell, ali cmd v windowsih). Program se zažene z ukazom ``node imePrograma.js``
+- namesti nodejs https://nodejs.org/en/download/
 
 ## Namestitev git
 Git je orodje za verzioniranje programske kode. Github, Gitlab in Bitbucket so orodja za shranjevanje in pregledovanje kode preko spletnega brskalnika. 
